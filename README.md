@@ -1,2 +1,2 @@
 # C64-playgroud
-Stuff i made with 6502 assembly
+Stuff I made with 6502 assembly
